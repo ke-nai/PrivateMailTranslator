@@ -5,6 +5,7 @@
 [플레이스토어에서 보기](https://play.google.com/store/apps/details?id=com.kenai.izone.privatemailtranslator)
 
 파파고 api를 활용해서 만든 번역앱입니다.
+Papago, AdMob, Firebase 등의 인증 정보가 포함되어 코드는 업로드하지 않았습니다. 
 
 ## 일반적인 향상점
 ### 줄별 번역 기능
